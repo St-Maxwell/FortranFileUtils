@@ -1,0 +1,8 @@
+# This file is used to test the lib
+# The new line will be appended to the end of file
+# first
+# second
+# third
+# first
+# second
+# third
